@@ -37,3 +37,11 @@ Teacher
 
 “Gomel state professional technical college
 electrical engineering”, Teacher
+
+---
+## Education
+**2010-2015**
+P. Sukhoi Gomel State Technical University, electronic engineer
+## Languages
+Russian - native
+English - pre-intermediate
