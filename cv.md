@@ -1,12 +1,16 @@
-## Volha Stselmashok
+# Volha Stselmashok
+
 ### Junior Frontend Developer
 ---
+
 ## Contacts
 * Location: Gomel, Belarus
 * Email: olga.kruzhilina@gmail.com
 * LinkedIn: <https://www.linkedin.com/in/olyakruz/>
+
 ---
 ## About me
+
 Junior front-end developer.
  I am hardworking, curiosity, purposefulness, I know how to win over people and constantly strive to study new technologies. I have experience teaching and managing a team. My awards and achievements: 
 * "Best Teacher of Step Academy 2020" according to a student survey. 
@@ -21,8 +25,10 @@ career change goal.
 * HTML
 * CSS
 * Git
+
 ---
 ## Work experience
+
 **2020-2022**
 
 IT STEP Academy - 
